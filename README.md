@@ -1,16 +1,30 @@
-# coronapp
+<h1 align="center">Welcome to COVID-19 Updates</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.1.1-blue.svg?cacheSeconds=2592000" />
+</p>
 
-A new Flutter project.
 
-## Getting Started
+## Special thanks to [NovelCOVID/API](https://github.com/novelcovid/api) & [COVID19-India](https://github.com/covid19india/api) for API
 
-This project is a starting point for a Flutter application.
+## Building
 
-A few resources to get you started if this is your first Flutter project:
+Android (armeabi-v7a): `flutter build apk` 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Android (arm64-v8a): `flutter build apk --target=android-arm64` 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+iOS: `flutter build ios` 
+
+If you have a connected device or emulator you can run and deploy the app with `flutter run` 
+
+## Author
+
+👤 **Chirag Garg**
+
+* Twitter: [@ChiragG60642348](https://twitter.com/ChiragG60642348)
+* Github: [@DeVil2O](https://github.com/DeVil2O)
+* LinkedIn: [@chirag-garg-a18411175](https://www.linkedin.com/in/chirag-garg-a18411175/)
+
+
+### :heart: Found this project useful?
+
+If you found this project useful, then please consider giving it a :star: on Github and sharing it with your friends via social media.
